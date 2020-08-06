@@ -1,10 +1,41 @@
-﻿.nav{
-    background-color: #ff0000;
+﻿.navbar-nav {
+    margin-left: 35px;
+}
+.dropdown:hover > .dropdown-menu {
+    display: block;
+    background-color: #808080;
+}
+.navbar{
+    margin-bottom: 10px;
+}
+
+h1,h2{
+    text-align:center;
+}
+
+.container{
+    margin-top: 25px;
+}
+
+.manuf-picture{
+    position: relative;
+    text-align: left;
+    color: white;
+    width: 100%;
+    margin-top: 15px;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
 }
 
 .jasgrid {
     padding: 0;
 }
+
 
 .box-item {
     float: left;
@@ -47,5 +78,5 @@
     }
 
         .box-item .box-post h1.post-title {
-            font-size: 10pt;
+            font-size: 14pt;
         }

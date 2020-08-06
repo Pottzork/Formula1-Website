@@ -363,7 +363,7 @@
           "lib/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll": {}
         }
       },
-      "Microsoft.TypeScript.MSBuild/4.0.0-beta": {
+      "Microsoft.TypeScript.MSBuild/3.9.7": {
         "type": "package",
         "build": {
           "build/Microsoft.TypeScript.MSBuild.props": {},
@@ -1278,17 +1278,17 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
-    "Microsoft.TypeScript.MSBuild/4.0.0-beta": {
-      "sha512": "UYfdULr0T6mnqhSWWvbvKOhU4dcpscQUqM7gYvJXngDCWIB5sOzjev83GGQFlcL/E2Z8ckxtEPz0nItx54Cgzg==",
+    "Microsoft.TypeScript.MSBuild/3.9.7": {
+      "sha512": "obpLmXWov2GvkYP4X90EiPrH0hCtTgRWjk9xc7GcjZLSfwHSf88j4PVQOdqI0fbKG1ypE4ltp+hTeJY0g9IWag==",
       "type": "package",
-      "path": "microsoft.typescript.msbuild/4.0.0-beta",
+      "path": "microsoft.typescript.msbuild/3.9.7",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/Microsoft.TypeScript.MSBuild.props",
         "build/Microsoft.TypeScript.MSBuild.targets",
-        "microsoft.typescript.msbuild.4.0.0-beta.nupkg.sha512",
+        "microsoft.typescript.msbuild.3.9.7.nupkg.sha512",
         "microsoft.typescript.msbuild.nuspec",
         "tools/Microsoft.TypeScript.Default.props",
         "tools/Microsoft.TypeScript.targets",
@@ -1344,7 +1344,6 @@
         "tools/tsc/lib.es2020.bigint.d.ts",
         "tools/tsc/lib.es2020.d.ts",
         "tools/tsc/lib.es2020.full.d.ts",
-        "tools/tsc/lib.es2020.intl.d.ts",
         "tools/tsc/lib.es2020.promise.d.ts",
         "tools/tsc/lib.es2020.string.d.ts",
         "tools/tsc/lib.es2020.symbol.wellknown.d.ts",
@@ -1365,6 +1364,7 @@
         "tools/tsc/node_modules/@microsoft/typescript-etw/bin/ia32/typescript-etw.node",
         "tools/tsc/node_modules/@microsoft/typescript-etw/index.js",
         "tools/tsc/node_modules/@microsoft/typescript-etw/package.json",
+        "tools/tsc/node_modules/source-map-support.js",
         "tools/tsc/pl/diagnosticMessages.generated.json",
         "tools/tsc/pt-BR/diagnosticMessages.generated.json",
         "tools/tsc/ru/diagnosticMessages.generated.json",
@@ -1730,7 +1730,7 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 3.2.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Build >= 3.2.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 3.2.0",
-      "Microsoft.TypeScript.MSBuild >= 4.0.0-beta",
+      "Microsoft.TypeScript.MSBuild >= 3.9.7",
       "System.Net.Http.Json >= 3.2.0"
     ]
   },
@@ -1798,7 +1798,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[4.0.0-beta, )"
+            "version": "[3.9.7, )"
           },
           "System.Net.Http.Json": {
             "target": "Package",

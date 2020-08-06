@@ -362,7 +362,10 @@ C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\net
 C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\staticwebassets\BlazorWebAssembly.StaticWebAssets.xml
 C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.dll
 C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.pdb
-C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\BeVLgOFKi3ElBMVwegRIk0vwmlER0BaKz1pwVvCjRdE=.hash
-C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\o0OoJc7G89-Iw10CpKB72018K2PljfUigBPYY5Kn_2Y=.hash
-C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\PaBPDHwSIrgvUA9acLMBzhN5ryCLyoXruQfZ6_LLzY8=.hash
-C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Manufacturers\Williams.razor.g.cs
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\Razor\Pages\Manufacturers\Williams.razor.g.cs
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Manufacturers\Mercedes.razor.g.cs
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\Razor\Pages\Manufacturers\Mercedes.razor.g.cs
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\WeXQljoaO-lwASqAsCMsXgM3w49t4LmAHsTrk1yNsaM=.hash
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\dYLoQAmcAx8rXooWKMCgO7BybO-8cA1HRcwjOifmC-M=.hash
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\8xwBqgqqK0UB0zuMhgWk91ZE5x4bRhOt5gFfcgcB7-s=.hash

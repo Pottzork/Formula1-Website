@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "BlazorWebAssembly.dll": "sha256-BeVLgOFKi3ElBMVwegRIk0vwmlER0BaKz1pwVvCjRdE=",
+      "BlazorWebAssembly.dll": "sha256-WeXQljoaO\/lwASqAsCMsXgM3w49t4LmAHsTrk1yNsaM=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-ycn\/UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -62,7 +62,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8="
     },
     "pdb": {
-      "BlazorWebAssembly.pdb": "sha256-o0OoJc7G89\/Iw10CpKB72018K2PljfUigBPYY5Kn+2Y="
+      "BlazorWebAssembly.pdb": "sha256-dYLoQAmcAx8rXooWKMCgO7BybO\/8cA1HRcwjOifmC\/M="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
