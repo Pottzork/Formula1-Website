@@ -365,3 +365,4 @@ C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\net
 C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\BeVLgOFKi3ElBMVwegRIk0vwmlER0BaKz1pwVvCjRdE=.hash
 C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\o0OoJc7G89-Iw10CpKB72018K2PljfUigBPYY5Kn_2Y=.hash
 C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\integrity\PaBPDHwSIrgvUA9acLMBzhN5ryCLyoXruQfZ6_LLzY8=.hash
+C:\Users\andre\source\repos\BlazorWebAssemblyApp\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csprojAssemblyReference.cache
