@@ -1,0 +1,51 @@
+﻿@page "/winners"
+
+@using ChartJs.Blazor.Charts
+@using ChartJs.Blazor.ChartJS.PieChart
+@using ChartJs.Blazor.ChartJS.Common.Properties
+@using ChartJs.Blazor.Util
+
+<h3>F1Winners</h3>
+<ChartJsPieChart @ref="_pieChartJs" Config="@_config" Width="600" Height="300" />
+
+
+@code {
+    private PieConfig _config;
+    private ChartJsPieChart _pieChartJs;
+
+    protected override void OnInitialized()
+    {
+        _config = new PieConfig
+        {
+            Options = new PieOptions
+            {
+                Title = new OptionsTitle
+                {
+                    Display = true,
+                    Text = "Amount of Grand Prix Wins since 1952"
+                },
+                Responsive = true,
+                Animation = new ArcAnimation
+                {
+                    AnimateRotate = true,
+                    AnimateScale = true
+                }
+            }
+        };
+
+        _config.Data.Labels.AddRange(new[] { "Mercedes", "Redbull", "Ferrari", "Williams", "McLaren", "Renault" });
+
+        var pieSet = new PieDataset
+        {
+            BackgroundColor = new[] { "#2ef0e9", "#1e2dfc", "#f71900", "#f2f2f2", "#ffa200", "#fbff00" },
+            BorderWidth = 1,
+            HoverBackgroundColor = "#44808080",
+            HoverBorderColor = "#000000",
+            HoverBorderWidth = 1,
+            BorderColor = "#ffffff",
+        };
+
+        pieSet.Data.AddRange(new double[] { 106, 62, 238, 114, 182, 35 });
+        _config.Data.Datasets.Add(pieSet);
+    }
+}
